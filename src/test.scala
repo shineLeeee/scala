@@ -3,5 +3,6 @@ object test {
     println("hello scala") 
     println("sdf")
     print("hello world")
+    print("it")
   } 
 }    
